@@ -1,0 +1,29 @@
+WindowManager:
+    MainWindow:
+    FoundedWindow:
+
+<MainWindow>:
+    name: "main"
+    orientation: 'vertical'
+    Camera:
+        id: camera
+        resolution: (640, 480)
+        play: True
+    ToggleButton:
+        text: 'Play'
+        on_press: camera.play = not camera.play
+        size_hint_y: None
+        height: '48dp'
+    Button:
+        text: 'Capture'
+        size_hint_y: None
+        height: '48dp'
+        #on_press: root.capture()
+        on_press: root.capture()
+        on_release: 
+            app.root.current = "founded"   
+         
+<FoundedWindow>:
+    name: "founded"
+    on_enter: root.on_start()
+    
