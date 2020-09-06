@@ -15,4 +15,4 @@ pip install kivy.deps.angle
 
 pip install kivy
 
-For the people that run into this: the pip install pypiwin32 can give an error because pywin32 is possibly already installed and cannot be uninstalled. For me it worked when i ran the items in the second line via a seperate pip install and ignore the pypiwin32 install error.
+For the people that run into any other problem like: the pip install pypiwin32 can give an error because pywin32 is possibly already installed and cannot be uninstalled. For me it worked when i ran the items in the second line via a seperate pip install and ignore the pypiwin32 install error.
