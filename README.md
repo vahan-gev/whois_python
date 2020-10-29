@@ -1,5 +1,5 @@
 # whois_python
-Face Recognition Program
+Face Recognition Program build using python
 
 # If getting error
 If your error is: [CRITICAL          ] [App         ] Unable to get a Window, abort.
