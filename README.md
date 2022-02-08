@@ -35,3 +35,6 @@ The project also uses libraries pillow, numpy and opencv.
 
 4) Go to the project directory and run the main.py file.
 
+## Registering new faces
+To register new faces add a named folder to directory test_imgs and run the trainer.py script.
+The script will generate a new dataset_faces.dat file which will hold the face data of people.
