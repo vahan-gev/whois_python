@@ -1,4 +1,4 @@
-# Face Recognition
+# Face Recognition 🧑
 Recommended Python version 3.9
 
 ## About the project
