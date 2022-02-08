@@ -1,9 +1,9 @@
 # Face Recognition
  
 ## About the project
-Using several python libraries I managed to build an application which uses face recognition technology to recognize people on camera.
-Face Recognition is being handled by the library called face_recognition by @ageitkey - https://github.com/ageitgey/face_recognition.
-GUI was built using Kivy.
+Using several python libraries I managed to build an application which uses face recognition technology to recognize people on camera. \n
+Face Recognition is being handled by the library called face_recognition by @ageitkey - https://github.com/ageitgey/face_recognition. \n
+GUI was built using Kivy. \n
 The project also uses libraries pillow, numpy and opencv.
 
 ## Installation
