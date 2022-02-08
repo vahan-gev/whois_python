@@ -1,16 +1,14 @@
 # Face Recognition
- 
+Recommended Python version 3.9
+
 ## About the project
 Using several python libraries I managed to build an application which uses face recognition technology to recognize people on camera.
-
 Face Recognition is being handled by the library called face_recognition by @ageitkey - https://github.com/ageitgey/face_recognition.
-
 GUI was built using Kivy.
-
 The project also uses libraries pillow, numpy and opencv.
 
 ## Installation
-Recommended Python version 3.9
+
 1) Open the terminal and run the following commands.
 ``` 
   pip install numpy
